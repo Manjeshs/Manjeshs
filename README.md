@@ -50,9 +50,9 @@ I'm a passionate electronics and communication engineer currently pursuing my Ma
 ## 📫 Contact Me
 - **Email:** [manjeshs2002@gmail.com](mailto:manjeshs2002@gmail.com)
 - **LinkedIn:** [Manjesh](www.linkedin.com/in/manjesh-s)
-
+- **Instagram** 
 ## 🌱 Let's Connect
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about technology!
 
-![Footer Image](https://via.placeholder.com/1200x150.png?text=Happy+Coding!)
+![Footer Image](https://github.com/Manjeshs/Manjeshs/blob/main/thankyou.png)
 
