@@ -48,9 +48,8 @@ I'm a passionate electronics and communication engineer currently pursuing my Ma
 ![Working on a project](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU5amZzajZ0dmd3OXMybGc3Y2szemxvZ3JjbGw0eW1neDFudXBhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JebisijdzVL2Cqs/giphy.gif)
 
 ## 📫 Contact Me
-- **Email:** [manjeshs2002@gmail.com](mailto:manjeshs2002@gmail.com)
-- **LinkedIn:** [Manjesh](www.linkedin.com/in/manjesh-s)
-- **Instagram** 
+- **LinkedIn:** [Manjesh-s](www.linkedin.com/in/manjesh-s)
+- **Instagram:** [Manjesh._s](https://www.instagram.com/manjesh_.s/?hl=en)
 ## 🌱 Let's Connect
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about technology!
 
